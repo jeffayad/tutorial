@@ -4,7 +4,7 @@ module.exports = {
         video: [{
             usEN: "Dashboard introduction",
             zhCN: "界面介绍",
-            id: ""
+            id: "P6H6HxJjzcQ"
         }, {
             usEN: "How to change UI",
             zhCN: "如何改变界面功能",
